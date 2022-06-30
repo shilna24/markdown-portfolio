@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Iam a Fullstack Developer*
+_Iam a pro programmmer_
+
+**Iam a Fullstack Developer**
+__Iam a pro programmmer__
+
+Iam a Fullstack Developer **and** Iam a pro programmmer 
